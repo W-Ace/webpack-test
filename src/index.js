@@ -1,4 +1,6 @@
 // app.js
-import * as add from './math';
+import sub1 from './sub1';
+import sub2 from './sub2';
 
-add.add2(100);
+console.log(sub1);
+console.log(sub2);
