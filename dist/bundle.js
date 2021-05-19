@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=()=>{console.log("dqq")},l={a:void console.log(2),q:o()},s={a:void console.log(1),q:o()};console.log(l),console.log(s)})();
