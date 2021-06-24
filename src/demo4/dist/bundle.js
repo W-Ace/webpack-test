@@ -1,0 +1,1 @@
+(()=>{"use strict";const n={a:function(){return 1}};n(100),console.log(n(100))})();

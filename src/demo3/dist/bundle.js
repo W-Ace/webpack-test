@@ -1,0 +1,1 @@
+(()=>{"use strict";const n=function(n){return n+1},t=function(n){return n+2};n(100),console.log(n(100)),t(100)})();

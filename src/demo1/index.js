@@ -1,7 +1,8 @@
-// app.js
-import {
-  add1, add2
-} from './math';
+// index.js
 
-add1(100);
-add2(100);
+import {
+  add1
+} from './export';
+
+console.log(add1(100));
+console.log(1);
